@@ -18,4 +18,6 @@ The things I learned from this competition will certainly help me in the future.
 
 ## Takeaways
 - CFTs are fun yet tricky
-- I enjoyed working on blue team tasks in a competitive environment
+- I enjoyed working on blue team tasks in a competitive environment  
+
+# Writeup
