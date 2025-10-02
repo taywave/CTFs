@@ -1,2 +1,2 @@
 # CTFs
-Respository for documenting my ctf competitions
+Repository for documenting my capture the flag competitions
