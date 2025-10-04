@@ -1,7 +1,7 @@
-# Writeup (in progress)
+# Huntress CTF 2025 Writeup (in progress)
 <!--
 <details>
-  <summary>Title of the collapsible section</summary>
+  <summary>title</summary>
   Content that will be hidden until the section is opened.
 </details>   
 -->
