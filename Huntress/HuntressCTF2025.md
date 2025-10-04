@@ -14,6 +14,6 @@
    
    
     
- ### [**View Writeup**](https://github.com/taywave/CTFs/new/main/Huntress#writeup)
+ ### [**View Writeup**](https://github.com/taywave/CTFs/blob/main/Huntress/Huntress_writeup.md#writeup)
 
 
