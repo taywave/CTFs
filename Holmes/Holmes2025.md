@@ -21,3 +21,4 @@ The things I learned from this competition will certainly help me in the future.
 - I enjoyed working on blue team tasks in a competitive environment  
 
 # Writeup
+### [Challenge 1: The Card](https://github.com/taywave/CTFs/new/main/Holmes#the-card-12-flags)
