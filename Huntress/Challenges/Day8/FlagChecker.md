@@ -10,4 +10,6 @@ used proxy and intercept to forward "flag{}" for the input to the page, which re
 
 <img width="507" height="185" alt="image" src="https://github.com/user-attachments/assets/378657c4-ec03-4fcd-b0a1-33a94762378a" />
 
+
+
 -->
