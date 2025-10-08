@@ -8,6 +8,10 @@
 
 - My team solved blank/blank
 - I completed blank/blank
+- We got ___ place on the scoreboard
+
+_Challenge Legend:_  
+👶 = warmup, 🐞 = malware, 🌐 = web, 📺 = optional security awareness task, 📦 = miscellaneous
 
 ## Here is documentation of the challenges I completed (updates in progress)
 
@@ -61,4 +65,60 @@
 </details>   
 <!-- Day 4 -->
 
+<!-- Day 5 -->
+<details>
+  <summary>
+    <h2>🔹Day 5 Challenges (0/1)</h2>
+  </summary>
+    
+  ### 🌐 Sigma Linter
+   
+</details>   
+<!-- Day 5 -->
 
+<!-- Day 6 -->
+<details>
+  <summary>
+    <h2>🔹Day 6 Challenges (1/2)</h2>
+  </summary>
+    
+  ### 📺 SAT: "Passwords 2" (completed)
+  ### 🌐 Emotional
+   
+</details>   
+<!-- Day 6 -->
+
+<!-- Day 7 -->
+<details>
+  <summary>
+    <h2>🔹Day 7 Challenges (0/2)</h2>
+  </summary>
+    
+  ### 📺 SAT: "AI Hallucinations"
+  ### 📦 Trust Me
+   
+</details>   
+<!-- Day 7 -->
+
+<!-- Day 8 -->
+<details>
+  <summary>
+    <h2>🔹Day 8 Challenges (0/1)</h2>
+  </summary>
+    
+  ### 📺 SAT: "Refund Scam"
+  ### 🌐 Flag Checker
+   
+</details>   
+<!-- Day 8 -->
+
+<!-- Day 9 -->
+<details>
+  <summary>
+    <h2>🔹Day 9 Challenges (0/1)</h2>
+  </summary>
+    
+  ### Challenge Name
+   
+</details>   
+<!-- Day 9 -->
