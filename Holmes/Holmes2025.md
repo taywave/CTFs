@@ -4,9 +4,9 @@
 ![Holmes CTF 2025](https://s3.eu-central-1.amazonaws.com/htb-ctf-prod-public-storage/ctf/banners/SpMV5jYXVHMQCfs0f9Cacqty2vyikLdLHViyJPIe.jpg)
 ## Stats
 - Team: myself
-- Rank: 2645/7084 (top 37%)
-- Challenges: 1/5
-- Flags: 12/65
+- Rank: 2645 / 7084 (top 37%)
+- Challenges: 1 / 5
+- Flags: 12 / 65
 
 ## Summary
 This was my first real CFT competition.  
