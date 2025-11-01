@@ -10,15 +10,17 @@
 
 ## Stats
 - Team: CyberPotential
-- Rank: 768/6869 **(top 11.18%)**
-- Challenges Completed: 23/65
+- Team Members: 8
+- Rank: 768 / 6869 **(top 11.18%)**
+- Total Challenges Completed: 23 / 65
+- Challenges I Completed: 8
 
 <!-- 
-## Takeaways
+## About the Event
 - 
-   
+
 ## Description (what I did)
 - 
-    
 
-
+## Takeaways
+-     
