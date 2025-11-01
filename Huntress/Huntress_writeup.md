@@ -6,9 +6,9 @@
 </details>   
 -->
 
-- My team solved blank/blank
-- I completed blank/blank
-- We got ___ place on the scoreboard
+- My team completed 23/65
+- For my team, I completed 8 of the challenges
+- We got 768th place on the [scoreboard](https://ctf.huntress.com/events/308dbb3b-8095-40e8-a46f-900e11f2a084/scoreboard), reaching the top 11% of all teams
 
 _Challenge Legend:_  
 👶 = warmup, 🐞 = malware, 🌐 = web, 📺 = optional security awareness task, 📦 = miscellaneous
