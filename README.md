@@ -1,7 +1,6 @@
-# CTFs 🚩
-### Repository for documenting my capture the flag competitions
+# 🚩Capture the Flag (CTF) Competitions 
 
-View the list of some CTFs I have completed, and check out more details about what I did by clicking on the title
-
-## 1. [Holmes CTF 2025](Holmes/Holmes2025.md) (Top 37%)
-## 2. [Huntress CTF 2025](Huntress/HuntressCTF2025.md) (Top 11%)
+- ### [Holmes CTF 2025](Holmes/Holmes2025.md) (Top 37%)
+- ### [Huntress CTF 2025](Huntress/HuntressCTF2025.md) (Top 11%)
+- ### SANS Black History Month Celebration CTF - February 2026 (85th)
+- ### SANS Women's History Month Celebration CTF March 2026 (99th)
