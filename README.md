@@ -13,7 +13,7 @@
 | [Huntress CTF 2025](Huntress/HuntressCTF2025.md) | October 2025 | Top 11% |
 | [Holmes CTF 2025](Holmes/Holmes2025.md) | September 2025 | Top 37% |
 
-## Skill Badges
+## Skills
 
 | Skill | Level |
 |---|---|
