@@ -17,6 +17,6 @@ Although a lot of teams had multiple players, up to 10+, I played solo for this 
 ## [My Stats](https://sillyctf.psuccso.org/users/940)
 <img width="1354" height="544" alt="image" src="https://github.com/user-attachments/assets/f6bfa6ae-39fd-4543-8e59-89c6bc8c9fbd" />
 
-- 143rd place in Open
-- 66th place in Academic
+- 143rd place overall
+- 64th place in Academic
 - 1143 total points
